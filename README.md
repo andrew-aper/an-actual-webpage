@@ -26,5 +26,5 @@ It is a tactical third person shooter that can provide a few hours of enjoyment.
 
 ### How would you get the game?
 
-You can try the game from the Epic Games Launcher and download it [here](https://www.epicgames.com/store/en-US/product/rogue-company/home) or download it directly from the Rogue Company website [here](https://www.roguecompany.com/).
+You can get the game from the Epic Games Launcher and download it [here](https://www.epicgames.com/store/en-US/product/rogue-company/home) or download it directly from the Rogue Company website [here](https://www.roguecompany.com/).
 
